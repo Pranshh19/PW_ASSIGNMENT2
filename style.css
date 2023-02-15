@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+body{
+    display: block;
+    align-items: center;
+    justify-content:space-around;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+
+.main{
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+}
+
+.btn{
+    background-color:rgb(97, 18, 171) ;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    border:1px solid rgb(97, 18, 171);
+    padding:10px;
+}
+
+.box{
+    margin-right:800px ;
+}
+
+.box1{
+    font-size: medium;
+    font-weight: normal;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cont{
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(65, 23, 104) ;
+    font-weight: bolder;
+
+}
+
+#spId1{
+    color:blueviolet
+}
+
+#p1{
+    font-weight: lighter;
+    margin-top: 20px;
+}
